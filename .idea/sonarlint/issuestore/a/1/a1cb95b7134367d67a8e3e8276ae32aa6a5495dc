@@ -1,0 +1,38 @@
+
+V
+java:S1220""Move this file to a named package.J$bf1b4736-bdb7-49f4-b4ef-3c222311508a
+‘
+java:S2095ƒ"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(Ó ¸şúÿÿÿÿ8†‡óÈñ1J$174a34a9-1f7e-415c-86b1-6a5514b922bc
+j
+java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8‰‡óÈñ1J$a961a889-bf16-44b4-bcb8-e925ced3b055
+r	java:S106"+Replace this use of System.out by a logger.(Î€Öşÿÿÿÿ8É÷Ó´ñ1J$320e35f6-4ddf-4548-b361-dcbfdb3840fd
+r	java:S106"+Replace this use of System.out by a logger.(ŒĞøÚşÿÿÿÿ8¤‡óÈñ1J$bdd046fb-bd7b-4806-ae65-3b49eccd218b
+m	java:S106"+Replace this use of System.out by a logger.(¨Ÿ•¼8¥‡óÈñ1J$374ff96e-14a1-474b-a377-645bcb4525b8
+m	java:S106 "+Replace this use of System.out by a logger.(·ÿÀ€8¥‡óÈñ1J$b2309c45-d6a6-4412-80b2-7ded02d07cdf
+m	java:S106!"+Replace this use of System.out by a logger.(ÖÉêÈ8¦‡óÈñ1J$6daab9e6-fb69-4bdb-9d9a-16dcd9f5f54f
+r	java:S1065"+Replace this use of System.out by a logger.(©¾Îøÿÿÿÿ8¬‡óÈñ1J$73cc229b-36d0-4346-898d-47d4d9bfeb22
+m	java:S1069"+Replace this use of System.out by a logger.(œ¸Å8¬‡óÈñ1J$9938b559-b9d6-443d-9850-2b5e9be16df5
+r	java:S106B"+Replace this use of System.out by a logger.(„ÃÌÿÿÿÿÿ8®‡óÈñ1J$f07a9ad7-9a94-45b6-bcaa-988e6aa77a88
+r	java:S106D"+Replace this use of System.out by a logger.(ãÑ™ùÿÿÿÿ8¯‡óÈñ1J$c177bd6e-a111-4912-acd8-a7636d388a0a
+m	java:S106G"+Replace this use of System.out by a logger.(˜Õ¶ê8³‡óÈñ1J$2efb01f0-3c68-4fda-ac3e-1eb802fed098
+r	java:S106N"+Replace this use of System.out by a logger.(„ÃÌÿÿÿÿÿ8µ‡óÈñ1J$cce513f2-33e5-45a1-80ba-f088b3d58847
+r	java:S106P"+Replace this use of System.out by a logger.(ãÑ™ùÿÿÿÿ8¶‡óÈñ1J$4b4f1022-99b7-45b6-b073-4c833284a5ed
+m	java:S106T"+Replace this use of System.out by a logger.(“­İÖ8¿‡óÈñ1J$a0de9679-cfaa-479f-9858-aa981de3e36b
+m	java:S106V"+Replace this use of System.out by a logger.(ÃâöÇ8À‡óÈñ1J$76e2483a-4524-4f50-a858-11dd6c5e7efc
+m	java:S106_"+Replace this use of System.out by a logger.(Ì¾°ì8Ä‡óÈñ1J$b54bdc90-8fa1-4026-9143-e09be3d343a1
+r	java:S106b"+Replace this use of System.out by a logger.(Ì›úœÿÿÿÿÿ8Ä‡óÈñ1J$8ec7cc48-8ec1-4200-a831-251089ffdfe6
+l	java:S106e"+Replace this use of System.out by a logger.(’¦ÌZ8Å‡óÈñ1J$a12c8bfe-b08d-4845-bdd2-f4500cace946
+m	java:S106m"+Replace this use of System.out by a logger.(‰ÖÓã8Ï‡óÈñ1J$ed92211f-1f72-4495-93cd-d2b073644b93
+r	java:S106p"+Replace this use of System.out by a logger.(“ç£¾şÿÿÿÿ8Ï‡óÈñ1J$91314ab7-6f35-48df-806b-f59769248737
+|
+java:S2864q"4Iterate over the "entrySet" instead of the "keySet".(†—é¡ÿÿÿÿÿ8Ò‡óÈñ1J$f59320db-6bc3-4fd3-b07b-4d33a3926328
+r	java:S106r"+Replace this use of System.out by a logger.(ğ¶®Òúÿÿÿÿ8ä‡óÈñ1J$f930031a-1b45-4879-b3b0-86b13fb6adac
+}
+java:S2864„"4Iterate over the "entrySet" instead of the "keySet".(†—é¡ÿÿÿÿÿ8é‡óÈñ1J$27d7b606-5f03-44d5-9b36-3e9e70b25b63
+n	java:S106ˆ"+Replace this use of System.out by a logger.(áªÕ¤8ë‡óÈñ1J$3aefaef9-d083-4e87-a2c9-8b3306fa1dc8
+s	java:S106Š"+Replace this use of System.out by a logger.(îËøˆşÿÿÿÿ8í‡óÈñ1J$a659deb2-35d0-46cc-a838-400f767e4abc
+s	java:S106—"+Replace this use of System.out by a logger.(ÙĞş‘ıÿÿÿÿ8õ‡óÈñ1J$9b6d7f08-f119-4183-bbb3-88e02f116fce
+n	java:S106™"+Replace this use of System.out by a logger.(‰ÙÕ8ö‡óÈñ1J$454a46cf-45dc-4745-bb55-b0976afc52e6
+m	java:S106­"+Replace this use of System.out by a logger.(½ñò
+8€ˆóÈñ1J$1322506e-f9fc-4c60-af8b-d7d47b527536
+s	java:S106½"+Replace this use of System.out by a logger.(äŠê¯ùÿÿÿÿ8ºˆóÈñ1J$2b5a22c1-be9d-43e4-a35f-7b1129bee02c

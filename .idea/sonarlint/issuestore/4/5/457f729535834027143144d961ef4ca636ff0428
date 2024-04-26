@@ -1,0 +1,12 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…Ç¯êÿÿÿÿÿ8·Èñ1J$f1996b6a-55e0-420b-85fe-5d70c3e0baa7
+
+java:S2095"HUse try-with-resources or close this "FileReader" in a "finally" clause.(Ú•ß¾ûÿÿÿÿ8ùğêÈñ1J$cb85f96b-1431-4364-aeeb-7396f1bfa5a6
+‹
+java:S2095("HUse try-with-resources or close this "FileWriter" in a "finally" clause.(®Ëğ8ËÉĞ´ñ1J$38b4131a-d5ff-42b4-ae36-5746043f6736
+}
+java:S1118
+":Add a private constructor to hide the implicit public one.(ì×¸÷8€ñêÈñ1J$e0a0e07e-fe66-4b3b-964e-7f494f1d7a48
+m	java:S106"+Replace this use of System.err by a logger.(€¬Åâ8ÛÉĞ´ñ1J$6e04b445-8003-40d6-99d3-fbb8c6f78686
+m	java:S106+"+Replace this use of System.out by a logger.(ÿä8ÚÉĞ´ñ1J$083d8f0b-82cd-4451-b3cb-166e689cc5c5
+m	java:S106-"+Replace this use of System.err by a logger.(­æè£8ñêÈñ1J$da2de078-982b-454d-ac48-2d5674c3feaa
